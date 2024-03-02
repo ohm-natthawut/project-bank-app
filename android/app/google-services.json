@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291873775673",
+    "project_id": "bank-app-bcb6e",
+    "storage_bucket": "bank-app-bcb6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291873775673:android:5be20edae851c9dfc6ade8",
+        "android_client_info": {
+          "package_name": "com.mycompany.bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoOJ5_eJhN26vr8a20cZjep3tHDZ3G7fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
